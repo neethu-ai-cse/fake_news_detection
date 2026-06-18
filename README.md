@@ -1,2 +1,21 @@
-# fake_news_detection
-Machine Learning project for detecting fake and real news articles using Natural Language Processing (NLP) and classification techniques.
+
+# Fake News Detection
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Natural Language Processing (NLP)
+
+## Project Objective
+Build a machine learning model to identify whether a news article is Fake or Real.
+
+## Features
+- Text preprocessing
+- News classification
+- NLP-based feature extraction
+- Model evaluation and prediction
+
+## Author
+Neethu Hasini Indana
